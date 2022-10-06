@@ -1,30 +1,22 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.65e730fe.css",
-    "main.js": "/home/static/js/main.e41cef4d.js",
+    "main.css": "/home/static/css/main.5df0702a.css",
+    "main.js": "/home/static/js/main.856d9e6e.js",
     "static/media/hopitaux.png": "/home/static/media/hopitaux.a1e4fbbef48c5abb4ae3.png",
-    "static/media/FILTER.png": "/home/static/media/FILTER.437318d1e99dc30a3be7.png",
-    "static/media/attribution.jpg": "/home/static/media/attribution.5c54c688c520f13eb3b1.jpg",
-    "static/media/userprofile.png": "/home/static/media/userprofile.4aa6dd478cab7c935a18.png",
-    "static/media/nvdia.png": "/home/static/media/nvdia.92f047b8156bd73e4fc9.png",
-    "static/media/portfolio.png": "/home/static/media/portfolio.b026cf03ef9ead69cc4f.png",
-    "static/media/gamestop.png": "/home/static/media/gamestop.4952063f086d59de2330.png",
-    "static/media/educational.png": "/home/static/media/educational.0466525c1f0dfb250c59.png",
-    "static/media/social.png": "/home/static/media/social.72d75be0b8d1132d0a3b.png",
-    "static/media/screener.png": "/home/static/media/screener.a6ee9ac7feb4e74ae29d.png",
-    "static/media/roadmap.png": "/home/static/media/roadmap.477e532dce2866a4c81a.png",
-    "static/media/coins.png": "/home/static/media/coins.84b728915443f418865b.png",
-    "static/media/feelgoodlogo.png": "/home/static/media/feelgoodlogo.0d577834cec491814e4f.png",
+    "static/media/2.png": "/home/static/media/2.db99d8a54832b4af5ee6.png",
+    "static/media/3.png": "/home/static/media/3.b14fa950de7c560b6d2f.png",
+    "static/media/1.png": "/home/static/media/1.8eb200c2a3280a18639d.png",
     "static/media/banner.PNG": "/home/static/media/banner.61f939f6be1929b0cf30.PNG",
     "static/media/qrcode.png": "/home/static/media/qrcode.39f643bd509dce6b3f87.png",
+    "static/media/coins.png": "/home/static/media/coins.bb91da43df095badcc0d.png",
     "static/media/googledownloadlogo.png": "/home/static/media/googledownloadlogo.194cc0b884101432aa18.png",
     "static/media/cta-illustration.svg": "/home/static/media/cta-illustration.79633e4594ec76a3f01f.svg",
     "index.html": "/home/index.html",
-    "main.65e730fe.css.map": "/home/static/css/main.65e730fe.css.map",
-    "main.e41cef4d.js.map": "/home/static/js/main.e41cef4d.js.map"
+    "main.5df0702a.css.map": "/home/static/css/main.5df0702a.css.map",
+    "main.856d9e6e.js.map": "/home/static/js/main.856d9e6e.js.map"
   },
   "entrypoints": [
-    "static/css/main.65e730fe.css",
-    "static/js/main.e41cef4d.js"
+    "static/css/main.5df0702a.css",
+    "static/js/main.856d9e6e.js"
   ]
 }
